@@ -4328,8 +4328,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42cfa530-4de4-4444-8be7-9a5ba93b735b")
-		(property "Reference" "SW17"
-			(at 93.98 40.6399 90)
+		(property "Reference" "SW4"
+			(at 93.98 41.8464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4338,7 +4338,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 93.98 43.1799 90)
+			(at 93.98 44.3864 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +4394,7 @@
 		(instances
 			(project ""
 				(path "/cac26fb3-9366-413f-8bbf-885ac1b417bf"
-					(reference "SW17")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -5227,7 +5227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83a4ffba-afa3-419d-bb57-e4f8f2abcd0b")
-		(property "Reference" "SW15"
+		(property "Reference" "SW16"
 			(at 90.17 92.71 0)
 			(effects
 				(font
@@ -5279,7 +5279,7 @@
 		(instances
 			(project "Custom Macropad"
 				(path "/cac26fb3-9366-413f-8bbf-885ac1b417bf"
-					(reference "SW15")
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -6504,7 +6504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0980024-1f87-4f76-bd32-e9073f9f5488")
-		(property "Reference" "SW14"
+		(property "Reference" "SW15"
 			(at 74.93 92.71 0)
 			(effects
 				(font
@@ -6556,7 +6556,7 @@
 		(instances
 			(project "Custom Macropad"
 				(path "/cac26fb3-9366-413f-8bbf-885ac1b417bf"
-					(reference "SW14")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -6728,7 +6728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c77101a2-8c46-495e-9c4b-b23cd06c8055")
-		(property "Reference" "SW13"
+		(property "Reference" "SW14"
 			(at 59.69 92.71 0)
 			(effects
 				(font
@@ -6780,7 +6780,7 @@
 		(instances
 			(project "Custom Macropad"
 				(path "/cac26fb3-9366-413f-8bbf-885ac1b417bf"
-					(reference "SW13")
+					(reference "SW14")
 					(unit 1)
 				)
 			)
@@ -7040,7 +7040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e083b68a-10ae-4230-8fdf-c018b13092c8")
-		(property "Reference" "SW4"
+		(property "Reference" "SW13"
 			(at 44.45 92.71 0)
 			(effects
 				(font
@@ -7092,7 +7092,7 @@
 		(instances
 			(project "Custom Macropad"
 				(path "/cac26fb3-9366-413f-8bbf-885ac1b417bf"
-					(reference "SW4")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
