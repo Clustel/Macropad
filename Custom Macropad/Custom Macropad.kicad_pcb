@@ -18744,10 +18744,21 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 118.26875 62.70625)
+		(end 196.05625 140.49375)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "d87869b0-5870-43e0-b38c-509ab58e6d64")
+	)
 	(gr_text "K"
 		(at 176.425 76.835 90)
 		(layer "B.SilkS")
-		(uuid "ca254586-1470-4c43-9c28-6a8e35579036")
+		(uuid "e1af0d96-7e4c-46f0-949e-5c763073cf3f")
 		(effects
 			(font
 				(size 1 1)
@@ -18759,7 +18770,7 @@
 	(gr_text "K"
 		(at 176.425 76.835 90)
 		(layer "B.Fab")
-		(uuid "6a2daa22-dd4d-47c6-939e-a54664ff915c")
+		(uuid "258ddb24-f843-48a2-8eab-5b775c958cd0")
 		(effects
 			(font
 				(size 1 1)
@@ -21633,8 +21644,8 @@
 		(uuid "99ef3d14-2188-4e2e-bfc8-fbfef302191f")
 	)
 	(segment
-		(start 126.365 99.441)
-		(end 125.984 99.441)
+		(start 125.984 99.441)
+		(end 132.207 99.441)
 		(width 0.254)
 		(layer "F.Cu")
 		(net 28)
@@ -21647,14 +21658,6 @@
 		(layer "F.Cu")
 		(net 28)
 		(uuid "cbd290ce-d5ed-4b58-9307-ce71e8da454f")
-	)
-	(segment
-		(start 132.207 99.441)
-		(end 126.365 99.441)
-		(width 0.254)
-		(layer "F.Cu")
-		(net 28)
-		(uuid "d5da5930-5102-47b9-b22e-cbe87563d170")
 	)
 	(segment
 		(start 125.984 99.441)
