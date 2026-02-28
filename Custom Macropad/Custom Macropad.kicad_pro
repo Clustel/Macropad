@@ -52,7 +52,40 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "copper_edge_clearance|126705501|115362658|f96af92f-6f76-4348-affd-e062c9591303|ef631f51-be30-468c-a2b9-f9f35b749531",
+          ""
+        ],
+        [
+          "copper_edge_clearance|126705501|116206658|f96af92f-6f76-4348-affd-e062c9591303|44d5c927-ff5e-471f-a6dd-e4ad59df0a4f",
+          ""
+        ],
+        [
+          "copper_edge_clearance|130688250|134559250|3a4ed8aa-4f9e-4331-80ea-44babee045fb|a252655d-8ee7-4dff-8c91-aca69c079453",
+          ""
+        ],
+        [
+          "copper_edge_clearance|130688250|135403250|3a4ed8aa-4f9e-4331-80ea-44babee045fb|f4e7f9c9-a4d0-4879-99a5-c5fe4fb3a364",
+          ""
+        ],
+        [
+          "copper_edge_clearance|145841034|78771261|e6c6e5de-4141-41d5-b0b8-db365d100402|ac89caa1-c515-4c22-86eb-f15342f13eb6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|145841050|76598065|a7b07322-9198-435c-88be-f4f63e21570e|be28f1db-5e97-45ec-9191-8568eb49813d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|149433981|78771260|2cbe4eb8-cc50-439a-900a-eb618072ee02|f6449d92-265f-46d1-827d-f9d952528041",
+          ""
+        ],
+        [
+          "copper_edge_clearance|149434044|76598074|3d032b3e-ddb2-480e-a57f-8ff7d73aef49|85b3f27c-b840-4c7f-b199-c518129a1a2c",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },

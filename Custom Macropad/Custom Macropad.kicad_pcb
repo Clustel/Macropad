@@ -18745,8 +18745,8 @@
 		)
 	)
 	(gr_rect
-		(start 118.26875 62.70625)
-		(end 196.05625 140.49375)
+		(start 117.475 61.9125)
+		(end 196.85 141.2875)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -18777,6 +18777,44 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Edge.Cuts")
+		(uuid "ea82d173-fc34-4c81-ba24-321aab0c675f")
+		(pts
+			(xy 196.85 61.9125) (xy 196.85 141.2875)
+		)
+		(height 23.01875)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.05)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "79.375"
+			(at 218.71875 101.6 90)
+			(layer "Edge.Cuts")
+			(uuid "ea82d173-fc34-4c81-ba24-321aab0c675f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 	)
 	(segment
