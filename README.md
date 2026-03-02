@@ -41,3 +41,49 @@ A fully 3D-printable, true gasket-mounted 4x4 macropad engineered for a premium,
 | **Cushion** | 95A TPU | Walls: **1** \| Top/Bottom: **0** \| Infill: **6% Gyroid** \| Speed: **3.5mm³/s** |
 
 > **Note:** For the TPU parts, setting Top and Bottom layers to **0** is critical, this exposes the Gyroid infill to create the "squish" effect.
+
+# Assembly guide
+_Ensure all 3D-printed parts are cleaned of support material before starting._
+
+> Bottom Case
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/c50faa5f-8c3d-451d-b610-ddd9fe9bacdd" />
+
+> Add Cushion (if using TPU)
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/48bda4a5-188e-4e5b-a417-4b598ddbe164" />
+
+> Assemble PCB (might be easier to add keycaps in the next step)
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/31dc6893-6796-4a9d-b02f-2521b6227167" />
+
+> Add Plate
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/cc31016b-3b2b-4eb1-a5eb-edd3f20e5108" />
+
+> Put assembly on top of cushion
+>
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/9e451a53-4218-4a90-bad0-41a7873ac49d" />
+
+> Put Gaskets on all four sides of plate
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/2becc3bd-2906-4a57-abac-91a5b652f087" />
+
+> Add top (put heat inserts in the 4 holes)
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/de60b32a-1a41-4dc4-87b5-59f7e3f0073e" />
+
+> Use the screws to attach it together
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/c9802501-e044-4111-8b32-c4333e1cc820" />
+
+> Done!
+> 
+> <img width="500" alt="image" src="https://github.com/user-attachments/assets/bea938f3-6dd6-4a5d-a0cb-da80d642720a" />
+
+
+
+
+
+
+
