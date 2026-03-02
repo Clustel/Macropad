@@ -25,6 +25,8 @@ A fully 3D-printable, true gasket-mounted 4x4 macropad engineered for a premium,
 	16x SK6812 MINI-E LEDs
 	4x M3x16mm screws
 	4x M3x5mx4mm heatset inserts
+	1x Printed PCB
+	1x Case (All parts, guide below)
 
 # Printing Guide
 
